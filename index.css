@@ -1,0 +1,63 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', monospace;
+}
+
+header {
+    background-color: aliceblue;
+    padding: 12px;
+}
+
+header span {
+    font-size: 2em;
+    margin: 12px;
+}
+
+nav {
+    padding: 0;
+    background-color: darkslategrey;
+    color: azure;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul > li {
+    display: block;
+    margin: 12px;
+}
+
+.navigation {
+    line-height: 1.5em;
+}
+
+main {
+    background-color: azure;
+    padding: 12px;
+}
+
+footer {
+    background-color: darkslategrey;
+    padding: 12px;
+    color: azure;
+}
+
+footer div {
+    margin: 0;
+    padding: 0;
+}
+
+footer span {
+    margin: 12px;
+    line-height: 1.5em;
+}
+
+.social-networking {
+    font-size: 1.5em;
+    line-height: 1em;
+}

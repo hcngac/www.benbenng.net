@@ -1,0 +1,7 @@
+{
+  "name": "site.benbenng.net",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap-4-grid": "^2.4.1"
+  }
+}

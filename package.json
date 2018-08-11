@@ -2,6 +2,8 @@
   "name": "site.benbenng.net",
   "version": "1.0.0",
   "dependencies": {
-    "bootstrap-4-grid": "^2.4.1"
+    "jquery": "~3.3.1",
+    "popper.js": "~1.14.4",
+    "bootstrap": "~4.1.3"
   }
 }
